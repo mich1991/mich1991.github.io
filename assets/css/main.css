@@ -2818,4 +2818,8 @@ button:active,
   }
 }
 
+article > a > img{
+  border-bottom: solid 1px #bbb;
+}
+
 /*# sourceMappingURL=main.css.map */
